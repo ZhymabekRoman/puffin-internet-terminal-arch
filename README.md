@@ -11,3 +11,6 @@ yay -S puffin-internet-terminal-bin
 ```bash
 yay -S puffin-internet-terminal-demo-bin
 ```
+
+## TODO:
+- Implement icon integrations
